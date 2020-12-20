@@ -1,0 +1,182 @@
+.CorpActivity {
+}
+
+.CorpActivity_title_block {
+    display: flex;
+}
+
+.CorpActivity_title {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 25px;
+    margin-top: 30px;
+    color: azure;
+    padding: 14px 16px;
+    background-color: #01081c;
+    min-width: 20%;
+}
+
+.CorpActivity_line {
+    background-color: #01081c;
+    width: 100%;
+    height: 2px;
+    margin-top: 55px;
+}
+
+.CorpActivity_info {
+    width: 100%;
+    margin: 40px auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.CorpActivity_info_item {
+    max-width: 45%;
+    min-width: 200px;
+    min-height: 400px;
+
+    margin: 20px;
+    padding: 10px;
+}
+
+.CorpActivity_info_item_img1 {
+    background-image: url("../../img/activity/exploration.jpg");
+    max-width: 100%;
+    height: 570px;
+
+    margin: 30px;
+
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.CorpActivity_info_item_img2 {
+    background-image: url("../../img/activity/trading.jpg");
+    max-width: 100%;
+    height: 570px;
+
+    margin: 30px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.CorpActivity_info_item_img3 {
+    background-image: url("../../img/activity/sequrity.jpg");
+    max-width: 100%;
+    height: 570px;
+
+    margin: 30px;
+
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.CorpActivity_info_item_img4 {
+    background-image: url("../../img/activity/engenering.jpg");
+    max-width: 100%;
+    height: 570px;
+
+    margin: 30px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.CorpActivity_info_item_img5 {
+    background-image: url("../../img/activity/mining.jpg");
+    max-width: 100%;
+    height: 570px;
+
+    margin: 30px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.CorpActivity_info_item_img6 {
+    background-image: url("../../img/activity/reclaimer.jpg");
+    max-width: 100%;
+    height: 570px;
+
+    margin: 30px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+
+
+.img_text_top {
+    color: azure;
+
+    font-size: 30px;
+    background-color: #050505;
+    text-align: center;
+
+    padding: 10px;
+
+    opacity: 0.4;
+}
+
+.img_text_bottom {
+    color: azure;
+
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+
+    font-size: 35px;
+    background-color: #050505;
+    text-align: center;
+    opacity: 0.5;
+}
+
+.CorpActivity_info_item_txt{
+    padding: 30px;
+}
+
+.CorpActivity_info_item_txt_title{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.CorpActivity_info_item_txt_info{
+    padding-top: 20px;
+    font-size: 20px;
+}

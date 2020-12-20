@@ -1,0 +1,45 @@
+.Navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+    color: #ffe9bb;
+    font-size: 20px;
+    background-color: #01081c;
+
+    border-bottom: #ffca89 1px solid;
+
+    z-index: 1;
+}
+
+.nav_container {
+    max-width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.nav_container div {
+    padding: 24px 16px;
+}
+
+.nav_container div:hover {
+}
+
+
+.nav_container a {
+    color: #ffe9bb;
+    text-decoration: none;
+}
+
+.nav_container a:hover {
+    color: #FFC935;
+
+    border-bottom: #FFC935 1px solid;
+    text-decoration: none;
+
+    transition: 0.3s;
+}
+
+
+
+

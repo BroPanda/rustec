@@ -1,0 +1,30 @@
+.Banner2 {
+    font-family: RonduitCapitals-Ligh;
+    color: azure;
+    min-height: 70vh;
+    background-image: url("../../img/banner2_bg.jpg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+}
+
+.Banner2_txt{
+    position: absolute;
+    top:45%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    text-shadow: #01081c 2px 2px 2px;
+}
+
+.Banner2_txt_title{
+    font-size: 50px;
+    margin: 70px 0;
+}
+
+.Banner2_txt_info{
+    font-size: 28px;
+}
